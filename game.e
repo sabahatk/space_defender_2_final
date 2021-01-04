@@ -1,6 +1,6 @@
 note
-	description: "A default business model."
-	author: "Jackie Wang"
+	description: "Main game class that displays the output and manages variables"
+	author: "Sabahat Khan"
 	date: "$Date$"
 	revision: "$Revision$"
 
