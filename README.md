@@ -10,4 +10,4 @@ Final project game using Eiffel
 <br/><i>pass<i/> -- Allows player to pass a turn
 <br/><i>special<i/> --Allows player to use special based on special chosen in setup stage
 <br/>
-<br/><b>Note:<b/> I have only included the parts that I have programmed here. In order for the entire game to be functional, I used code provided by my professor (which I did not include here)
+<br/><b>Note:<b/> I have only included the parts that I have programmed here (except for the classes GAME_ACCESS, RANDOM_GENERATOR, and RANDOM_GENERATOR access which were coded by my professor). In order for the entire game to be functional, I used code provided by my professor (which I did not include here) 
